@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/cpp/test1/build",
+  "command": "D:\\Dev-Cpp\\MinGW32\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.obj -c E:\\cpp\\test1\\src\\algebra.cpp",
+  "file": "E:/cpp/test1/src/algebra.cpp",
+  "output": "CMakeFiles/main.dir/src/algebra.obj"
+},
+{
+  "directory": "E:/cpp/test1/build",
+  "command": "D:\\Dev-Cpp\\MinGW32\\bin\\c++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c E:\\cpp\\test1\\src\\main.cpp",
+  "file": "E:/cpp/test1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+}
+]
